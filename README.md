@@ -4,17 +4,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>School Project Website</title>
+    <title> Islamic education </title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
+            background-color: #f4f4f5;
         }
 
         header {
-            background-color: #333;
+            background-color: #444;
             color: #fff;
             text-align: center;
             padding: 1em;
@@ -46,7 +46,7 @@
         }
 
         footer {
-            background-color: #333;
+            background-color: #443;
             color: #fff;
             text-align: center;
             padding: 1em;
@@ -60,19 +60,19 @@
 <body>
 
     <header>
-        <h1>School Project Website</h1>
+        <h1>Islamic centre Gaur </h1>
     </header>
 
     <nav>
         <a href="#">Home</a>
         <a href="#">About</a>
-        <a href="#">Projects</a>
+        <a href="#">Work</a>
         <a href="#">Contact</a>
     </nav>
 
     <section>
-        <h2>Welcome to our School Project Website</h2>
-        <p>This is a professional-looking website for our school project. Feel free to explore the content.</p>
+        <h2>Welcome to our Islamic Website</h2>
+        <p>This is a professional-looking website for our islamic . Feel free to explore the content.</p>
     </section>
 
     <footer>
